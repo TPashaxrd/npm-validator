@@ -1,0 +1,18 @@
+{
+  "name": "@tdogan/validator",
+  "version": "1.0.1",
+  "description": "Express middleware to validate emails, phone numbers, and usernames",
+  "main": "index.js",
+  "type": "commonjs",
+  "keywords": [
+    "validator",
+    "toprakdogan",
+    "express",
+    "middleware",
+    "email",
+    "phone",
+    "username"
+  ],
+  "author": "Toprak Altın",
+  "license": "MIT"
+}
